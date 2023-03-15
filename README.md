@@ -1,2 +1,2 @@
-# repo-curso-git
+#mi primer README
 recorriendo git-github
